@@ -1,4 +1,4 @@
-예시 리드미입니다.
+asdfasdfasdfd
 [.github/CODEOWNERS](.github/CODEOWNERS)의 octocat을 실제 팀원으로 수정해주세요.
 프로젝트에 맞춰 아래 내용을 작성하고 이 문구와 각 설명을 삭제해주세요.
 리드미는 아래 양식과 관계 없이 팀 색깔에 맞춰 자유롭게 꾸며주셔도 됩니다.
